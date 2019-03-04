@@ -12,20 +12,19 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_general_email_inbox: info@sankofa.org
+org_street_address: The Villa at the Beach #Please include suite number on the line below
+org_city:   Lincoln City
+org_state: OR
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  97217
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  (605) 475-4120 ext. 578 7719
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: sankofanw
+org_facebook_username: sankofanw
+org_instagram_username:sankofanw
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
@@ -47,13 +46,13 @@ publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
-theme: default
+theme: two
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
 # Unless you know what you're doing, no need to change anything below
 # Build settings
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/scnw/" # the subpath of your site, e.g. /blog/
 markdown: kramdown
 kramdown:
   input: GFM
